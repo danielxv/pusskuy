@@ -1,0 +1,2 @@
+# pusskuy
+ update admin,guest
