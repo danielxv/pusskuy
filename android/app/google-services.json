@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "783845568118",
+    "project_id": "pusskuy-cf10d",
+    "storage_bucket": "pusskuy-cf10d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783845568118:android:77259bd724f200ad713957",
+        "android_client_info": {
+          "package_name": "com.pusskuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783845568118-f30hu75s7kt5cpfs8jobu86qn8k3oa8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuquZ9jSRlegCnPznLXNkJtCBOWO5nvJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783845568118-f30hu75s7kt5cpfs8jobu86qn8k3oa8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
